@@ -6,7 +6,7 @@
 </br>
 - 💬 Ask me about **any tech related stuff**
 </br>
- - ⚡ Fun fact **I think I am funny XD**
+ - ⚡<a href="https://rafhathdana.ml">click here to visit my personal webpage</a> **
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rafhathdana&theme=onedark)](https://github.com/Rafhathdana)
 </br>
