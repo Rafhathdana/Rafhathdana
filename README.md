@@ -8,7 +8,7 @@
 </br>
  - ⚡ Fun fact **I think I am funny XD**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rafhathdana&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rafhathdana&theme=onedark)](https://github.com/Rafhathdana)
 </br>
 
 
