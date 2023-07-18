@@ -16,7 +16,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
 [![Linkedin: rafhathdana](https://img.shields.io/badge/-%20rafhathdana-blue?style=plastic&logo=Linkedin&logoColor=white&link=//https://www.linkedin.com/in/rafhthathdana-55403b1b2/)](https://www.linkedin.com/in/rafhathdana//)
-[![Gmail Badge](https://img.shields.io/badge/-rafahthdana@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:rafhathdana@gmail.com)](mailto:Rafhathdana@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-rafhathdana@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:rafhathdana@gmail.com)](mailto:Rafhathdana@gmail.com)
 [![GitHub Mohammed Rafhath](https://img.shields.io/github/followers/Rafhathdana?label=follow&style=social)](https://github.com/Rafhathdana)
 </br></br>
 
@@ -38,7 +38,10 @@
     <img align="left" alt="Rafhath Udemy" width="40px" src="https://cdn.worldvectorlogo.com/logos/udemy-1.svg" />
 </a>    
 <a href="https://www.coursera.org/user/08f641dbd36d22b8a65316eabb721052" title='Coursera'>
-    <img align="left" alt="Avi's Coursera" width="40px" src="https://ucarecdn.com/e483b814-5ca9-4784-95b8-be011000c26e/-/format/jpeg/-/progressive/yes/-/preview/480x480/" />
+    <img align="left" alt="Rafhath's Coursera" width="40px" src="https://ucarecdn.com/e483b814-5ca9-4784-95b8-be011000c26e/-/format/jpeg/-/progressive/yes/-/preview/480x480/" />
+</a>
+<a href="https://leetcode.com/rafhathdana" title='LeetCode'>
+    <img align="left" alt="Leet Code" width="40px" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" />
 </a>
 </details>
 </br> </br>
