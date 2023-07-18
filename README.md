@@ -22,6 +22,9 @@
 
 <details open>
 <summary><b>Competitive Programming Profiles</b></summary>
+ <a href="https://leetcode.com/rafhathdana" title='LeetCode'>
+    <img align="left" alt="Leet Code" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Leetcode.svg" />
+</a>
 <a href="https://www.hackerrank.com/Rafhathdana" title='Hackerrank'>
     <img align="left" alt="Rafhath hackerrank" width="40px" src="https://cdn.cutshort.io/public/companies/572b17e20aeee5dd0b12e94a/hackerrank-logo" />
 </a>
@@ -39,9 +42,6 @@
 </a>    
 <a href="https://www.coursera.org/user/08f641dbd36d22b8a65316eabb721052" title='Coursera'>
     <img align="left" alt="Rafhath's Coursera" width="40px" src="https://ucarecdn.com/e483b814-5ca9-4784-95b8-be011000c26e/-/format/jpeg/-/progressive/yes/-/preview/480x480/" />
-</a>
-<a href="https://leetcode.com/rafhathdana" title='LeetCode'>
-    <img align="left" alt="Leet Code" width="40px" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" />
 </a>
 </details>
 </br> </br>
