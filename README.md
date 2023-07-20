@@ -22,13 +22,13 @@
 
 <details open>
 <summary><b>Competitive Programming Profiles</b></summary>
- <a href="https://leetcode.com/rafhathdana" title='LeetCode'>
+ <a href="https://leetcode.com/rafhathdana" title='Leet Code'>
     <img align="left" alt="Leet Code" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Leetcode.svg" />
 </a>
-<a href="https://www.hackerrank.com/Rafhathdana" title='Hackerrank'>
+<a href="https://www.hackerrank.com/Rafhathdana" title='Hacker Rank'>
     <img align="left" alt="Rafhath hackerrank" width="40px" src="https://cdn.cutshort.io/public/companies/572b17e20aeee5dd0b12e94a/hackerrank-logo" />
 </a>
-<a href="https://www.hackerearth.com/@rafhathdana" title='Hackerearth'>
+<a href="https://www.hackerearth.com/@rafhathdana" title='Hacker Earth'>
     <img align="left" alt="Rafhath Hackerearth" width="40px" src="https://media.cdn.gradconnection.com/uploads/8cda75b2-8384-47be-af0b-6c1d4314bc0a-HACKEREARTH_LOGO.png" />
 </a>
 <a href="https://www.codecademy.com/profiles/rafhathdana" title='Codecademy'>
