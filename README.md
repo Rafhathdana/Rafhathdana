@@ -66,7 +66,7 @@ Self-taught developer with a passion for exploring the ever-evolving realm of te
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
 [![Linkedin: rafhathdana](https://img.shields.io/badge/-%20rafhathdana-blue?style=plastic&logo=Linkedin&logoColor=white&link=//https://www.linkedin.com/in/rafhthathdana-55403b1b2/)](https://www.linkedin.com/in/rafhathdana//)
-[![Gmail Badge](https://img.shields.io/badge/-rafhathdana@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:rafhathdana@gmail.com)](mailto:Rafhathdana@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-rafhathdana@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:rafathdana@gmail.com)](mailto:Rafathdana@gmail.com)
 [![GitHub Mohammed Rafhath](https://img.shields.io/github/followers/Rafhathdana?label=follow&style=social)](https://github.com/Rafhathdana)
 </br></br>
 
